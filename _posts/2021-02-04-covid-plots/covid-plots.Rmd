@@ -1,0 +1,156 @@
+---
+title: "COVID plots"
+description: |
+  Plotting some data on COVID that made me rethink things
+author:
+  - name: Roy Emanuel
+    orcid_id: 0000-0003-2935-2651
+    url: {}
+categories:
+  - data
+  - COVID
+date: 02-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source("d:/COVID/deathbyweek.r")
+library(pander)
+library(captioner)
+table_nums <- captioner(prefix = "Table")
+fig_nums <- captioner(prefix = "Figure")
+```
+
+# Background
+
+I have been building my own plots for COVID-19 fatality since April of
+last year. These plots have been my little pet project for me to view
+on my own. In general the swells and bumps followed the narrative told
+as far as increasing deaths and decreasing deaths. I did not go so far
+as to plot hospital bed usage and stuff, and I'm not going there. I
+have just three plots based on age that made me realize I had false
+sense of the impact of the virus. 
+
+ Here are the
+numbers as of 4 FEB 2021 mixed with the headline data from the
+[Washington Post COVID-19
+Tracker](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/):
+
+```{r usTotal}
+usTotal <- tibble(`Total reported US cases` = "26,611,000",
+               `Total US deaths` = "454,000")
+
+usTotal %>% pander()
+```
+`r table_nums(name = "UStotal", caption = "Total US Values as reported
+by Washington Post COVID-19 Tracker")`
+
+# Long-Term Care Facilities
+
+I decided to look into the age breakdowns for deaths after seeing the
+Atlantic's
+[Long-Term Care COVID
+Tracker](https://covidtracking.com/nursing-homes-long-term-care-facilities). 
+
+You can deep dive, but the top line tells the story.
+
+```{r ltcf}
+
+
+ltcf <- tibble(`Total LTCF cases` = "1,234,012",
+               `Total LTCF deaths` = "153,159",
+               `Total number of LTCF affected` = "31,517")
+
+
+ltcf %>% pander()
+```
+`r table_nums(name = "LTCFtotal", caption = "Total Long Term Care Facilities (LTCF) data as reported by the Atlantic COVID-19")`
+
+I find this incredible and not talked about. Sure, the media points
+out that older people and those with co-morbidities (other health
+problems) have a higher fatality rate. But not *this*. **OVER ONE
+THIRD of COVID-19 deaths occur in Long-Term Care Facilities!** My gut
+feeling from the news and social media was that maybe an extra 10-20%
+of deaths were in the 70 and older group. Not this.
+
+
+# United States by Age Groups
+
+The findings from the  [Long-Term Care COVID
+Tracker](https://covidtracking.com/nursing-homes-long-term-care-facilities)
+made me dig deeper to find the percentage of COVID deaths by age, the
+number of cases by age, and the number of cases per death by
+age. `r fig_nums(name = "AgeDist", caption = "Percentage of Total US COVID-19 Deaths Suffered by Age Groups. Data from CDC", display = "cite")` shows the
+percent of total COVID-19 deaths suffered by each age group.
+
+```{r ageDist, fig.height = 6}
+US_death_by_age +
+    scale_y_continuous(name = "Percentage of Total COVID-19 Deaths") +
+    theme(legend.position = "none")
+```
+
+`r fig_nums(name = "AgeDist")`
+
+Less than 3% of US deaths have been people below the age of 43. Well
+under 1% of the deaths have been young adults and children (<24 years
+old). Over 80% of deaths are from the 65+ age groups. All data came
+from the Center for Disease Control data website [United States
+COVID-19 Cases and Deaths by State over
+Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36). 
+
+
+# California by Age Groups
+
+The California Public Health Department has a straightforward website
+with a table of data that is much easier to read than their fancy
+Tableau web pages. The data has number of cases, number of deaths and
+percentage of the California population in [COVID-19 Cases by Age
+Group](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx). Data
+is from 5 FEB 2021. 
+
+`r fig_nums(name = "CAperc", caption = "Age Aggregated COVID-19 Case and Death
+Percentage compared to Population Percentage", display = "cite")` 
+shows how the case and death percentage compare to the overall
+population percentage of each age group.
+
+```{r CAperc, fig.height = 8}
+CA_percent_caseDeathPop +
+    theme(legend.position = "bottom")
+```
+
+`r fig_nums(name = "CAperc")`
+
+Now the same plots but using the count data rather than relative
+percentages. 
+
+```{r CAcount, fig.height = 8}
+CA_count_caseDeathPop +
+    theme(legend.position = "bottom")
+```
+
+The final plot took a small amount of math on my part. I wanted to see
+how many cases per fatality there are for each age group. This gives
+an idea of if you have a group with a  reported positive test, how
+many of them died. This is simplified. It does not take into account
+active cases that may become deaths or unreported or asymptomatic
+cases. My personal belief is that these numbers are pessimistic
+because the number of asymptomatic or unreported cases is
+higher than the amount of current cases that will result in death. Also,
+they are more pessimistic for the younger groups than the older groups
+because I believe younger groups are less likely to get tested and are
+more likely to have asymptomatic COVID-19.
+
+```{r CAcaseperdeath, fig.height = 8}
+case_per_death_by_age
+```
+
+<!-- # Opinion or So What? -->
+
+<!-- This poor messaging hurts the government response to COVID-19 in two -->
+<!-- ways. First is the risk to the elderly, I believe is severely under -->
+
+

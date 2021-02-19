@@ -1,0 +1,19 @@
+name: "MetaNurbles"
+title: "MetaNurbles"
+description: |
+  A journal/review/what-I've-been-thinking-about blog
+base_url: https://MetaNurbles.com
+output_dir: "docs"
+collections:
+  posts:
+    categories: true
+    share: [linkedin]
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+output: distill::distill_article

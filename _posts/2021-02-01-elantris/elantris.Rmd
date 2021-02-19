@@ -1,0 +1,29 @@
+---
+title: "Book Nurbles: Brandon Sanderson's Elantris"
+description: |
+  Prolific author's first work shows his promise
+author:
+  - name: Roy Emanuel
+categories:
+  - books
+  - reviews
+date: 02-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I just finished my second book of the year, Elantris, by Brandon Sanderson. I enjoyed the book, but I have enjoyed every book by Mr. Sanderson, and trust me there are a lot of them. This is his first novel, and we can see some of the rough edges that he has sanded and lacquered out with his latest efforts.
+
+The action of the book centers around Elantris, a city once populated with magical beautiful beings, who have turned ugly, and dead looking. When injured, they continue feeling the pain as if were fresh forever, so if you banged your funny bone, you would feel that forever.
+
+Whether he intended it or not, I saw parallels with the concepts in Steven Pressfield's War of Art. When they focus on their own pain, the Elantrians fold into their own misery and become less than human. They are unable to see past the next opportunity to get some sort of respite. The physical pains they feel are like the emotional scars we carry around fresh as the day they were made. The main character introduces purpose to the Elantrians, for instance he points out the stonework to a former sculptor. With purpose, they forget their pain. Cleaning, helping, and creating eases the mounting collection of cuts, bruises, and scrapes that never cease.
+
+Steven Pressfield, in the War of Art and its successors, proposes a force called Resistance lurks in everyone. Resistance opposes every creative endeavor. Resistance is the voice urging you to procrastinate, that your work will embarrass you, that you aren't good enough, or that you need to do X before starting this work. The only solution to Resistance is purposeful work. The cause is its cure.
+
+I enjoyed making this parallel. I could see Mr. Sanderson feeling like one of his characters as he labored through his first published novel. Judging by the quality and quantity of his works, he has a method for defeating resistance.

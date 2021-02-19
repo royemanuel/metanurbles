@@ -1,0 +1,23 @@
+---
+title: "Books-2017"
+description: |
+  A short description of the post.
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 02-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+These are the books that I read during about half of 2017. I'll try to
+note anything I really liked or didn't from them.
+
+## 

@@ -1,0 +1,34 @@
+---
+title: "Enlightenment"
+description: |
+  A Kantian quote that tickled my fancy
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 02-01-2021
+categories:
+  - quotes
+  - deepthoughts
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+*Enlightenment is man's release from his self-incurred
+ tutelage. Tutelage is man's inability to make use of his
+ understanding without direction from another. Self-incurred is this
+ tutelage when its cause lies not in lack of reason but in lack of
+ resolution and courage to use it without direction from
+ another.* **Sapere aude! 'Have courage to use your own reason!'**- *that is
+ the motto of enlightenment*
+
+I found this quote by Immanuel Kant on a college football blog,
+[CornNation](https://www.cornnation.com/2021/1/19/22238660/hey-rube). The
+quote resonates because at times I am happy to lead others or to be
+lead by others. Happy to blaze my own trail or allow inertia to place
+me where it will.
