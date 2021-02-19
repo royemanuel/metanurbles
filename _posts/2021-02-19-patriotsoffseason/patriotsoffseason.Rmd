@@ -1,0 +1,77 @@
+---
+title: "Patriots_Offseason"
+description: |
+  A short description of the post.
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 02-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing,
+native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+($60m in cap space)
+
+Trade for Jimmy G ($20m)
+
+Sign Allen Robinson ($20m)
+
+If Zach Ertz is available for a late 4th or 5th trade for him ($10m)
+
+1st round pick - TE Pitts from Florida (eliminates need for Ertz) or
+WR Waddle from Alabama (still want Robinson)
+
+If neither are available, trade back to late first round and get 2nd
+best TE, left tackle, or DE
+
+2nd-4th round picks - LBs with speed to cover in space, people that
+can stop the run LB/DE/NT
+
+Don't trade Stephon Gilmore. Take the year and the compensation pick.
+
+Don't cut Edelman - limit his workload so he stays healthy but use his
+knowledge and leadership to get improvement out of the other players
+on the roster
+
+Keep the Center ($7m), left the left guard walk - If they can get the
+LT in the 1st, they will have an A o-line
+
+See if there are some big body run stuffing nose tackles in the market
+as a bargain rate ($3m)
+
+Do Not draft Mac Jones - this is the one I could be wrong on, but
+below average arm strength, below average athletic ability, has never
+thrown a pass to a player that wasn't wide open and significantly
+better than the person covering him. I don't see how this guy's upside
+isn't Trent Dilfer or Kirk Cousins at the absolute best.
+
+Adjust a few salaries to create another $10m to sprinkle around at the
+right LB, DE free agents
+
+ 
+
+Option B - If the BYU QB falls a little bit and they like his
+attitude, trade 1st, 2nd and 2022 3rd to move up and grab him. Trade
+for Ertz, sign Robinson, and maybe 1 more veteran receiver to surround
+the kid out of the gate. Trade Gilmore to get the 2nd round pick
+back. Draft O-lineman to protect the kid, sign O-lineman to protect
+the kid, find the best full back to pass protect and lead block so the
+running game can really thrive, maybe draft a WR to develop with him,
+let the defense languish for a year and let the prior year's draft
+investment on defense mature. Attack Defense in 2022 when the QB has
+had a year to develop/master the system and was likely asked to throw
+the ball a lot to cover for the defense. 2021 - on the cusp of
+playoffs likely miss, 2022 - make playoffs, 2023/2024 - SB contender
+with low cost QB, 2025 - need to resign QB and make long term plan
