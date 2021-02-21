@@ -1,11 +1,11 @@
 ---
-title: "Patriots_Offseason"
+title: "patriots_offseason"
 description: |
   A short description of the post.
 author:
   - name: Roy Emanuel
     url: {}
-date: 02-19-2021
+date: 02-21-2021
 output:
   distill::distill_article:
     self_contained: false
@@ -16,6 +16,10 @@ draft: true
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 Distill is a publication format for scientific and technical writing,
 native to the web.
@@ -75,3 +79,4 @@ had a year to develop/master the system and was likely asked to throw
 the ball a lot to cover for the defense. 2021 - on the cusp of
 playoffs likely miss, 2022 - make playoffs, 2023/2024 - SB contender
 with low cost QB, 2025 - need to resign QB and make long term plan
+

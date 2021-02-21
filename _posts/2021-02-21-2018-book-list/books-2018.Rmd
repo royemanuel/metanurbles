@@ -1,0 +1,134 @@
+---
+title: "2018 Book List"
+description: |
+  List of the books I read in 2018
+author:
+  - name: Roy Emanuel
+    url: {}
+categories:
+  - books
+  - reviews
+date: 02-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is the year I full committed to **reading** instead of reading
+how I liked to read. I gave up on hard copies of books and dvoted
+myself to Kindle on my phone and the digital library in Howard
+county. This was the year I finished my dissertation, so there was a
+lot of procrastination as part of this. How did I do it all?!?!?
+
+# Fiction
+
+(@) The Ocean at the End of the Lane, Neil Gaiman
+(@) Pyramids, Terry Pratchett (Discworld)
+(@) The Wyrd Systers, Terry Pratchett (Discworld)
+(@) Sourcery, Terry Pratchett (Discworld)
+(@) The Graveyard Book, Neil Gaiman *Starting to see a trend???*
+(@) The Well of Ascension, Brandon Sanderson (Mistborn)
+(@) The Sandman, Neil Gaiman (Comic)
+(@) Hero of Ages, Brandon Sanderson (Mistborn)
+
+(@) **Prince of Thorns, Mark Lawrence (Broken Empire)**
+
+> A friend had pushed me to read this for a long time, but I made the
+> mistake of judging a book by its cover. Darker than Martin's Song of
+> Ice and Fire, the series is a compelling mix of fantasy, sci-fi, and
+> zombie apocalypse. Worth reading if ONLY to get to the follow-on
+> trilogy, The Red Queen's War, which is one of the funnies things I've
+> read in the past decade. 
+
+(@) Fragile Things, Neil Gaiman
+(@) M is for Magic, Neil Gaiman
+(@) Eric, Terry Pratchett (Discworld)
+(@) The Amazing Maurice and His Educated Rodents, Terry Pratchett
+(Discworld)
+(@) King of Thorns, Mark Lawrence (Broken Empire)
+(@) Emperor of Thorns, Mark Lawrence (Broken Empire)
+
+(@) **Prince of Fools, Mark Lawrence (Red Queen's War)**
+
+> This trilogy is an incredible buddy saga with an anti-hero coward
+> (Prince Jalan) and a larger-than-life Viking version of Captain
+> America (Snorri). Laugh-out loud funny for throughout. Mr. Lawrence
+> writes so you can see yourself both of the characters. Again, a
+> fantasy/sci-fi/zombie series. Incredibly entertaining stories that
+> weave in and out of the Broken Empire series, so you must read
+> both. The Broken Empire is definitely the place to start. I re-read
+> this and the Broken Empire in 2020 because I missed Snorri and Jalan
+> so much.
+
+(@) The Liar's Key, Mark Lawrence (Red Queen's War)
+(@) The Wheel of Osheim, Mark Lawrence (Red Queen's War)
+
+(@) **Neverwhere, Neil Gaiman**
+
+> I feel like I have to write something about these Gaiman books because
+> they are all so incredible. Neverwhere takes place beneath London
+> where the forgotten and unseen people in the world make their
+> living. I have enjoyed every Gaiman book I have ever read, and I dream
+> of being an author after ever one of them!
+
+(@) Annihilation, Jeff VanderMeer (Southern Reach)
+(@) The Alloy of Law, Brandon Sanderson (Wax and Wayne)
+(@) Moving Pictures, Terry Pratchett (Discworld)
+(@) Shadows of Self, Brandon Sanderson (Wax and Wayne)
+
+(@) **Harry Potter and the Sorceror's Stone, J.K. Rowling (Harry Potter)**
+(@) **Harry Potter and the Chamber of Secrets, J.K. Rowling (Harry Potter)**
+
+> I started reading these out loud to my oldest daughter. Right now in
+> FEB 2021, I'm reading to all the kids all in different places!
+
+(@) **The Atrocity Archives, Charles Stross (Laundry Files)**
+
+> James Bond meets Lovecraftian Horror meets Office Space/Dilbert. An
+> imaginative page-turner of a series. Highly recommend
+
+(@) The Concrete Jungle, Charles Stross (Laundry Files)
+(@) Reaper Man, Terry Pratchett (Discworld)
+(@) The Bands of Mourning, Brandon Sanderson (Wax and Wayne)
+(@) Authority, Jeff VanderMeer (Southern Reach)
+(@) The Jennifer Morgue, Charles Stross (Laundry Files)
+(@) Witches Abroad, Terry Pratchett (Discworld)
+(@) Lords and Ladies, Terry Pratchett (Discworld)
+
+(@) **Small Gods, Terry Pratchett (Discworld)**
+
+> My favorite Discworld novel. I've read thirty or so, so that is no
+> small feat. This one is stand-alone, so you may try it out if you
+> don't want to commit to the whole thing. There is a turtle that was
+> once a god, a bureaucracy, and a monk in training who listens to
+> *everything*. Try it, you'll like it!
+
+(@) The Fuller Memorandum, Charles Stross (Laundry Files)
+(@) Harry Potter and the Prisoner of Azkaban, J.K. Rowling (Harry Potter)
+
+
+# Nonfiction
+
+(@) Twelve Rules for Life: An Antidote to Chaos, Jordon Peterson
+
+> I do not understand the hubbub regarding this book. It was carefully
+> reasoned, charitable to the reader, and full of solid advice.
+
+(@) 10% Happier, Dan Harris
+
+(@) **The Undoing Project, Michael Lewis**
+
+> Good enough to make me read Thinking Fast and Slow
+
+(@) **Factfulness, Hans Rosling**
+
+> This may be the most important nonfiction book published this
+> century, in fact. Read it read it READ IT. The book walks through the
+> state of poverty in the world today, and the western world's complete
+> misunderstanding of it. Extremely important. 

@@ -1,0 +1,86 @@
+---
+title: "2017 Book List"
+description: |
+  Books I read in the latter half of 2017
+author:
+  - name: Roy Emanuel
+    url: {}
+categories:
+  - books
+  - reviews
+date: 02-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+These are the books that I read during about half of 2017. I'll try to
+note anything I really liked or didn't from them.
+
+
+# Fiction
+
+(@) The Handmaid's Tale, Margaret Atwood
+(@) Ready Player One, Ernest Cline
+(@) A Knight for All Kingdoms, George R. R. Martin (A Song of Ice and
+Fire Prequel)
+
+(@) **Snow Crash, Neal Stephenson**
+
+> My first dive into cyberpunk, and it is for me!
+
+(@) Sand, Hugh Howey (Sand Series)
+(@) Wool, Hugh Howey (Silo Series)
+(@) **The Colour of Magic, Terry Pratchett**
+
+> My start with Discworld. An amazing series that brings me joy with
+> every book. Sir Pratchett earned his knighthood, plus some.
+
+(@) **Mr. Norrel and Jonathan Strange, Susanna Clarke** 
+
+> I really enjoyed this book even though I knew it was boring as I read
+> it. 
+
+(@) **Stardust, Neil Gaiman**
+
+> This was my introduction to Neil Gaiman. His
+> writing makes my heart ache. I want to tell a story to someone that
+> makes them feel like this.
+
+(@) Norse Mythology, Neil Gaiman
+
+(@) Neuromancer, William Gibson
+(@) The Light Fantastic, Terry Pratchett (Discworld)
+(@) **The Final Empire, Brandon Sanderson (Mistborn)**
+
+> I discovered Brandon Sanderson after enjoying his masterful finish of
+> Robert Jordan's Wheel of Time series (which I recommend highly). I
+> recommend the Mistborn trilogy as the place to start with this
+> prolific, excellent author. 
+
+(@) **Good Omens, Neil Gaiman and Terry Pratchett**
+
+> One of my all-time favorites. Two of my favorite authors built an
+> incredible story of an angel, a demon, the antichrist, and the witch
+> who has a book that predicts it all. Set in 1980's UK. 
+
+(@) Equal Rites, Terry Pratchett (Discworld)
+(@) Mort, Terry Pratchett (Discworld)
+
+# Nonfiction
+
+(@) The Choose Yourself Guide to Wealth, James Altucher
+(@) **Man's Search For Meaning, Victor Frankl**
+
+> This is a book I recommend to every adult. The recollections of a
+> psychologist who survived the Nazi concentration camps. 
+
+(@) Mastery, Robert Greene
+
+(@) The One Thing, Gary Keller
+(@) How to Write a Lot, Paul Silvia
