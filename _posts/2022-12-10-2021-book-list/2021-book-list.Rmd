@@ -1,0 +1,50 @@
+---
+title: "2021 Book List"
+description: |
+  A short description of the post.
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 2022-12-10
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Fiction
+(@) Red Sister, Mark Lawrence
+(@) Elantris, Brandon Sanderson
+(@) Three Body Problem, Cixin Liu
+(@) Everything is F*cked, Mark Manson
+(@) Villa Incognito
+(@) Rhythm of War, Brandon Sanderson
+(@) Going Postal, Terry Pratchett
+(@) Thud!, Terry Pratchett
+(@) The Dark Forest, Cixin Liu
+(@) Wintersmith, Terry Pratchett
+(@) Making Money, Terry Pratchett
+(@) Harry Potter and the Prisoner of Azkaban, J.K. Rowling
+(@) Harry Potter and the Sorcerer's Stone, J.K. Rowling
+(@) Grey Sister, Mark Lawrence
+(@) Holy Sister, Mark Lawrence
+(@) You Suck, Christopher Moore
+(@) Bite Me, Christopher Moore
+(@) Death's End, Cixin Liu
+# Nonfiction
+(@) Extreme Ownership, Jocko Willink and Leif Babin
+(@) The Practice - Shipping Creative Work, Seth Godin
+(@) The Story Grid, Shawn Coyne
+(@) Art of the Impossible, Steven Kotler
+(@) The War of Art, Steven Pressfield
+(@) Turning Pro, Steven Pressfield
+(@) The Existentialist's Survival Guide
+(@) 
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

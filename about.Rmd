@@ -1,8 +1,11 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Why this? Why now?
 ---
+In the immortal words of Roy Emanuel (my dad), "It seemed like the
+thing to do at the time."
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

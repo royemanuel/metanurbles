@@ -1,7 +1,7 @@
 ---
 title: "COVID plots"
 description: |
-  Plotting some data on COVID that made me rethink things
+  Plotting some data on COVID that made me rethink things (data circa early February 2021)
 author:
   - name: Roy Emanuel
     orcid_id: 0000-0003-2935-2651

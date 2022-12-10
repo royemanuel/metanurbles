@@ -1,0 +1,76 @@
+---
+title: "2020_book_list"
+description: |
+  Scottish soccer hooligan smurfs, the anti-Kahneman, and the incredible feats of Comanches.
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 03-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Fiction
+
+(@) Carpe Jugulum, Terry Pratchett (Discworld)
+(@) The Initiation, Chris Babu
+
+
+(@) The Fifth Elephant, Terry Pratchett (Discworld)
+(@) The Legend of Bagger Vance, Steven Pressfield
+(@) Harry Potter and the Order of the Phoenix, J.K. Rowling (Harry
+Potter)
+
+(@) The Expedition, Chris Babu
+
+
+
+(@) Lonesome Dove, Larry McMurtry
+
+(@) The Truth, Terry Pratchett (Discworld)
+(@) The Amazing Maurice and His Educated Rodents, Terry Pratchett
+(Discworld)
+(@) The Sand Sea,
+(@) Thief of time, Terry Pratchett (Discworld)
+(@) One Word Kill, Mark Lawrence 
+(@) Limited Wish, Mark Lawrence
+(@) The Insurrection, Chris Babu
+(@) Dispel Illusion, Mark Lawrence
+(@) Artemis Fowl and the Eternity Code (Artemis Fowl)
+(@) Artemis Fowl and the Opal Deception (Artemis Fowl)
+(@) Night Watch, Terry Pratchett (Discworld)
+(@) Monstrous Regiment, Terry Pratchett (Discworld)
+(@) Wee Free Men, Terry Pratchett (Discworld)
+(@) King of Thorns, Mark Lawrence (Broken Empire)
+(@) Emperor of Thorns, Mark Lawrence (Broken Empire)
+(@) Prince of Fools, Mark Lawrence (Red Queen's War)
+(@) The Liar's Key, Mark Lawrence (Red Queen's War)
+(@) The Wheel of Osheim, Mark Lawrence (Red Queen's War)
+(@) A Hat Full of Sky, Terry Pratchett (Discworld)
+(@) Dead Lies Dreaming, Charles Stross (Laundry Files)
+
+# Nonfiction
+
+(@) Gut Feelings, Gerd Gigerenzer
+
+(@) Tiny Habits, B.J. Fogg
+
+(@) Storyworthy
+
+(@) Open Borders, Bryan Caplan
+(@) Essentialism
+(@) Lost in Math, Sabine Hossenfelder
+(@) The Artist's Journey, Steven Pressfield
+(@) The Narrative of the Life of Frederick Douglass, Frederick
+Douglass
+(@) The Empire of the Summer Moon, 
+(@) Finish, Jon Acuff
+(@) Slip of the Keyboard, Terry Pratchett
+(@) The Warrior Ethos, Steven Pressfield

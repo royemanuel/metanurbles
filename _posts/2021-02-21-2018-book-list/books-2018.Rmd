@@ -1,7 +1,7 @@
 ---
 title: "2018 Book List"
 description: |
-  List of the books I read in 2018
+  List of the books I read in 2018 while procrastinating the completion of my dissertation
 author:
   - name: Roy Emanuel
     url: {}
@@ -21,9 +21,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 This is the year I full committed to **reading** instead of reading
-how I liked to read. I gave up on hard copies of books and dvoted
-myself to Kindle on my phone and the digital library in Howard
-county. This was the year I finished my dissertation, so there was a
+how I liked to read. I gave up on hard copies of books and readdigital
+versions on  my phone. The digital county  library was a treasure
+trove. 
+
+This was also the year I finished my dissertation, so there was a
 lot of procrastination as part of this. How did I do it all?!?!?
 
 # Fiction

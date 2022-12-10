@@ -1,0 +1,59 @@
+---
+title: "2022 Book List"
+description: |
+  A short description of the post.
+author:
+  - name: Roy Emanuel
+    url: {}
+date: 2022-12-10
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Fiction
+(@) The Lost Hero, Rick Riordan
+(@) Son of Neptune, Rick Riordan
+(@) Mark of Athena, Rick Riordan
+(@) Harry Potter and the Chamber of Secrets, J.K. Rowling
+(@) House of Hades, Rick Riordan
+(@) Blood of Olympus, Rick Riordan
+(@) Shadow and Bone, Leigh Bardugo
+(@) The Girl and the Stars, Mark Lawrence
+(@) Quantum of Nightmares, Charles Stross
+(@) Escape from Yokailand, Charles Stross
+(@) The Girl and the Mountain, Mark Lawrence
+(@) The Last Wish, Andrzej Sapkowski
+(@) Siege and Storm, Leigh Bardugo
+(@) The Girl and the Moon, Mark Lawrence
+(@) Count Zero, William Gibson
+(@) Master and Man, Leo Tolstoy
+(@) Ruin and Rising, Leigh Bardugo
+(@) Mona Lisa Overdrive, William Gibson
+(@) His Majesty's Dragon, Naomi Novik
+(@) Throne of Jade, Naomi Novik
+(@) Harry Potter and the Deathly Hallows, J.K. Rowling
+(@) Gates of Fire, Steven Pressfield
+(@) Harry Potter and the Prisoner of Azkaban, J.K. Rowling
+(@) A Princess of Mars, Edgar Rice Burroughs
+(@) A Gentleman in Moscow, Amor Towles
+(@) Black Powder War, Naomi Novik
+
+# Nonfiction
+(@) The Story of Blockchain, Omid Malekan
+(@) The Gap and the Gain, Benjamin Hardy
+(@) The Gift, Edith Eger
+(@) Who Not How, Dan Sullivan
+(@) Put Your Ass Where Your Heart Wants To Be, Steven Pressfield
+(@) Bed of Procrustes, Nassim Taleb
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

@@ -1,0 +1,152 @@
+---
+title: "2019 Book List"
+description: |
+  Fiction and nonfiction I read in 2019. I take a long journey into Discworld, devour the sixth book of a fantastic trilogy, swing for the fences, and become another soldier in the War of Art.
+author:
+  - name: Roy Emanuel
+    url: {}
+categories:
+  - books
+  - reviews
+date: 03-06-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This appeared to be the "Year of the Fantasy Series." I continued
+reading through fantasy series I had started and jumped into every new
+one I could find. 
+
+(@) The Apocalypse Codex, Charles Stross (Laundry Files)
+(@) The Rhesus Chart, Charles Stross (Laundry Files)
+(@) Do Androids Dream of Electric Sheep?, Philip K. Dick
+(@) **The Way of Kings, Brandon Sanderson (Stormlight Archives)**
+
+> The most ambitious of Sanderson's series  (excluding the final
+> trilogy of the Wheel of Time with Robert Jordon) is excellent with a
+> caveat. I would steer any first time Sanderson readers to the Mistborn
+> trilogy first. The Stormlight Archives' vast array of characters,
+> plotlines, and universe reveals is too much for the first time
+> reader. Go enjoy the Mistborn and related novels before jumping into
+> this series. 
+
+(@) Odd and the Frost Giants, Neil Gaiman
+(@) The Annihilation Score, Charles Stross (Laundry Files)
+(@) Call to Arms, Terry Pratchett (Discworld)
+(@) The Nightmare Stacks, Charles Stross (Laundry Files)
+(@) **The Fifth Season, N. K. Jemisin (Broken Earth)**
+
+> An excellent fantasy dystopia series. The series sets a compelling
+> plot while slowly revealing the ways of the world. Nothing is handed
+> to you in explanation, but you must pick up the slang, the social
+> structures, and the changed world environment on your own. 
+
+(@) The Stone Sky, N. K. Jemisin (Broken Earth)
+(@) **Artemis Fowl, Eoin Colfer**
+
+> Definitely a Young Adult / Tween novel and series but with a world
+> rich enough and novels short enough to be worth adult attention.
+
+(@) **And Another Thing..., Eoin Colfer (The Increasingly Misnamed
+Hitchhiker's Guide to the Galaxy Trilogy)**
+
+> Artemis Fowl led me to the delightful discovery of Eoin Colfer's
+> addition to the Hitchhiker's Trilogy. And Another Thing rescues the
+> end of Mostly Harmless in the whimsical yet frenetic tone of the
+> earliest Guide books. This makes it a much more light-hearted story
+> than Mostly Harmless.
+> 
+> This series, through both the
+> BBC television production and the books, cemented my love of British
+> humor. Monty Python laid the foundation, of course. My two most prized
+> adolescent possessions were my hardcover edition of The Lord of the
+> Rings (with the BIG maps) and a leather bound collection of the Guide
+> through So Long and Thanks for All the Fish. 
+
+(@) Soul Music, Terry Pratchett (Discworld)
+
+(@) Interesting Times, Terry Pratchett (Discworld)
+
+(@) Harry Potter and the Goblet of Fire, J.K. Rowling (Harry Potter)
+
+(@) **Complete Works of Beatrix Potter, Beatrix Potter**
+
+> Reading aloud to children is a joy.
+
+(@) Artemis Fowl and the Arctic Incident, Eoin Colfer (Artemis Fowl)
+
+(@) Edgedancer, Brandon Sanderson (The Stormlight Archives)
+
+(@) Words of Radiance, Brandon Sanderson (The Stormlight Archives)
+
+(@) Trigger Warning, Neil Gaiman (Short story collection)
+
+(@) Feet of Clay, Terry Pratchett (Discworld)
+
+(@) Shift, Hugh Howey (Silo)
+
+(@) Dust, Hugh Howey (Silo)
+
+(@) Hogfather, Terry Pratchett (Discworld)
+
+(@) Jingo, Terry Pratchett (Discworld)
+
+(@) The Last Continent, Terry Pratchett (Discworld) 
+
+
+
+# Non-Fiction
+
+(@) **Moneyball, Michael Lewis**
+
+> A dear friend at work lent this to me in 2009 when I first joined
+> APL. I found out in 2019 that he was retiring, and I had never read
+> the book, so I made it a priority to finish it before he left. I was
+> hooked. One thing led to another, and later in the summer of 2019, I
+> was interviewing to be an analyst with the Tampa Bay Rays! That
+> deserves a longer story, but the spoiler is I didn't get the job.
+
+(@) **Astroball: The New Way to Win it All, Ben Reiter**
+
+> Whoops! Turns out it wasn't brilliance! This did NOT AGE WELL!
+
+(@) **The War of Art, Steven Pressfield**
+
+> This book made an indelible impression on me. Pressfield clearly and
+> accurately describes the negative voice on my head or the demon on my
+> shoulder. He calls this voice the Resistance, and I found his
+> personification of this voice useful in fighting it. Naming and
+> identifying a problem is half the way to solving it. I **HIGHLY**
+> recommend the War of Art and the subsequent books. 
+> 
+> I give this book as a gift whenever possible. 
+
+(@) Turning Pro, Steven Pressfield
+
+(@) **No One Wants to Read Your Sh!t!, Steven Pressfield**
+
+> This follow up to the War of Art is particularly useful. Pressfield
+> breaks down why people don't want to read what you've written and
+> places the burden of being compelling on the creator's shoulders where
+> it belongs. He gives solid advice that has not steered me wrong since
+> I've begun applying it. I regularly review this book.
+
+(@) **Skin in the Game, Nassim Taleb (The Incerto)**
+
+> I've read all of Taleb's books in the Incerto, and while I love his
+> arrogant style, he is not for everyone. If you were turned off by the
+> Black Swan or his other books, skip forward to Skin in the Game. He
+> reviews enough of his past work that you will be in good shape and get
+> the gist of his compelling, important arguments. 
+
+
+
+Built with Distill, R, and Emacs. Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
